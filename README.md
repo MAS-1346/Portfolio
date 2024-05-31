@@ -25,7 +25,6 @@ Current Projects
 
 - Ongoing training in the Data Analytics Essentials course
 - Exploring new tools and technologies in the data science field
-- 
 
 Contact
 
