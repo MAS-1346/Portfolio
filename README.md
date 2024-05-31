@@ -22,11 +22,11 @@ Skills:
 
 Projects:
 
-- Coffee Shop Sales Decline Analysis
+- Coffee Shop Sales Decline Analysis (CISCO SKILLS FOR ALL LAB 1.2.3)
     - Analyzed sales data to identify trends and correlations
     - Developed a data-driven story to explain the decline in sales
     - Provided actionable insights for the coffee shop owner to improve sales
--Wrote 60 C Language entry level basic programs      
+-Wrote 60 C Language entry-level basic programs      
 
 Current Projects:
 
