@@ -6,6 +6,18 @@ Education:
 
 - Intermediate in Computer Sciences (ICS)
 
+Certificates
+
+- Microsoft Office Specialist - Word 2019
+    - Certified by: Microsoft
+    - Date: December 15, 2022
+- Cisco Python Essentials 1
+    - Certified by: Cisco
+    - Date: July 21, 2023
+- HTML and CSS Course
+    - Certified by: Great Learning
+    - Date: July 2023
+
 Skills:
 
 - Data analysis and visualization
