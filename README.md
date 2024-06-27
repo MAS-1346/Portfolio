@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! I'm Muhammad Aayanullah Shahzad, a detail-oriented and data-driven individual with a strong foundation in computer sciences. I hold an Intermediate in Computer Sciences (ICS) degree and am expanding my data analytics skill set through the Data Analytics Essentials course.
+Welcome to my portfolio! I'm Muhammad Aayanullah Shahzad, a detail-oriented and data-driven individual with a strong foundation in computer sciences. I hold an Intermediate in Computer Sciences (ICS) degree and am expanding my data analytics skill set through the Data Analytics Essentials course by CISCO SKILLS FOR ALL.
 
 Education:
 
